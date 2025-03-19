@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "UT/DR Text";
+    src: url(../fonts/text_font_utdr.ttf);
+}
+
+
+body {
+    font-family: "UT/DR Text";
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
+
+video {
+    display: flex;
+    justify-self: center;
+}
+
+h1.index {
+    display: flex;
+    justify-content: center;
+}
+
+.elian1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.donut {
+    display: flex;
+    justify-self: center;
+    width: 651px;
+    height: 326px;
+    background-color: white;
+}
+
+.donut_text {
+    display: flex;
+    justify-content: center;
+}
+
+.spam {
+    display: flex;
+    justify-content: center;
+}
+
+.elian_fotos {
+    display: flex;
+    justify-self: center;
+}
+
+.ship {
+    display: flex;
+    justify-self: center;
+}
+
+.punta_cana {
+    display: flex;
+    justify-self: center;
+}
+
+.link_punta_cana {
+    display: flex;
+    justify-self: center;
+    width: 236px;
+    height: 236px;
+}
+
+.boton {
+    display: grid;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    font-size: 8px;
+    color: gray;
+}
