@@ -14,6 +14,8 @@ body {
 video {
     display: flex;
     justify-self: center;
+    max-width: 100%;
+    height: auto;
 }
 
 h1.index {
@@ -24,7 +26,6 @@ h1.index {
 .elian1 {
     display: flex;
     justify-content: space-between;
-    padding: 0 20px;
 }
 
 .donut {
